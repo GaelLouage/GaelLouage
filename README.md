@@ -61,6 +61,17 @@ Here are some ideas to get you started:
 </div>
 <a href="https://github.com/GaelLouage/landing-page-job" target="_blank">Checkout my code</a>
 <hr>
+<!-- clone webb -->
+<h3>Clone single page</h3>
+<p><strong>Tools:</strong>Angular, Typescript, CSS, HTML</p>
+<div style="display:flex;">
+ <img src="https://github.com/GaelLouage/Clone-website/blob/main/mobile.png"  width="150px" height="100px"> 
+ <img src="https://github.com/GaelLouage/Clone-website/blob/main/modal.png"  width="150px" height="100px"> 
+  <img src="https://github.com/GaelLouage/Clone-website/blob/main/clone%20website.png" width="150px" height="100px"> 
+
+</div>                                                                                                                                                                                                                      
+<a href="https://github.com/GaelLouage/Clone-website" target="_blank">Checkout my code</a>
+<hr>
 <!-- cworld -->
 <h3>CartoonWorld</h3>
 <p><strong>Tools:</strong>ASP.NET CORE, CRUD, Entity Framework, CSS, HTML</p>
