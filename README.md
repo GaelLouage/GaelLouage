@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <div style="display:flex;">
   <img src="https://github.com/GaelLouage/landing-page-job/blob/main/main.PNG" width="150px" height="100px"> 
  <img src="https://github.com/GaelLouage/landing-page-job/blob/main/filtering.PNG" width="150px" height="100px"> 
-<img src="https://github.com/GaelLouage/landing-page-job/blob/main/mobile.PNG" width="50px" height="100px">                                                                                                  
+<img src="https://github.com/GaelLouage/landing-page-job/blob/main/mobile.PNG" width="50px" height="100px">                                                               <img src="https://github.com/GaelLouage/landing-page-job/blob/main/routing.PNG" width="150px" height="100px">                                        
                                                                                                               
 </div>
 <a href="https://github.com/GaelLouage/Blog-project-duo" target="_blank">Checkout my code</a>
