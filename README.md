@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div style="display:flex;">
  <img src="https://github.com/GaelLouage/Game-DDS-trainer/blob/main/Ddstrainer.PNG"  width="450px" height="250px""> 
 </div>
-<small>Memory needs update</small>                                                                                                                 
+<p><small>Memory needs update</small></p>                                                                                                                 
 <a href="https://github.com/GaelLouage/Game-DDS-trainer" target="_blank">Checkout my code</a>
 <!-- web -->
 <h1>Front end Web</h1>
