@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <h3>VDAB tool</h3>
 <p><strong>Tools:</strong>c#, WPF, Selenium</p>
 <div style="display:flex;">
- <img src="https://github.com/GaelLouage/VDAB-tool-selenium/blob/main/app.PNG"  width="50px" height="100px""> 
+ <img src="https://github.com/GaelLouage/VDAB-tool-selenium/blob/main/app.PNG"  width="150px" height="250px""> 
 </div>
 <!--youtube dl -->
 <p><small>VDAB connection find jobs</small></p>                                                                                                                 
