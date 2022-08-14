@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 <hr>
 
-<h3>Landing Page Job</h3>
+<h3>Landing Page</h3>
 <p><strong>Tools:</strong> Angular, Typescript, CSS, HTML</p>
 <div style="display:flex;">
   <img src="https://github.com/GaelLouage/landing-page-job/blob/main/main.PNG" width="150px" height="100px"> 
