@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <p><small>Memory needs update</small></p>                                                                                                                 
 <a href="https://github.com/GaelLouage/Game-DDS-trainer" target="_blank">Checkout my code</a>
 <!-- web -->
-<h1>Front end Web</h1>
+<h1>Web</h1>
 <h3>Blog Project duo</h3>
 <p><strong>Tools:</strong> Angular, Typescript, CSS, HTML</p>
 <div style="display:flex;">
