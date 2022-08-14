@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  <img src="https://github.com/GaelLouage/Movie-db/blob/main/admin%20menu.PNG"  width="300px" height="150px""> 
 </div>
 <p><small>Download youtube videos in mp4 or mp3 format</small></p>                                                                                                                 
-<a href="https://github.com/GaelLouage/Movie-db" target="_blank">Checkout my code</a>
+<a href="https://github.com/GaelLouage/Movie-db" target="_blank">code</a>
 <hr>
 <!--vdab -->
 <h3>VDAB tool</h3>
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </div>
 <!--youtube dl -->
 <p><small>VDAB connection find jobs</small></p>                                                                                                                 
-<a href="https://github.com/GaelLouage/VDAB-tool-selenium" target="_blank">Checkout my code</a>
+<a href="https://github.com/GaelLouage/VDAB-tool-selenium" target="_blank">code</a>
 <hr>
 <h3>Youtube downloader</h3>
 <p><strong>Tools:</strong>c#, WPF</p>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
  <img src="https://github.com/GaelLouage/Youtube-mp4-mp3/blob/main/appImage.PNG"  width="200px" height="100px""> 
 </div>
 <p><small>Download youtube videos in mp4 or mp3 format</small></p>                                                                                                                 
-<a href="https://github.com/GaelLouage/Youtube-mp4-mp3" target="_blank">Checkout my code</a>
+<a href="https://github.com/GaelLouage/Youtube-mp4-mp3" target="_blank">code</a>
 <hr>
 <!--dds-->
 <h3>DDS trainer</h3>
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
  <img src="https://github.com/GaelLouage/Game-DDS-trainer/blob/main/Ddstrainer.PNG"  width="450px" height="250px""> 
 </div>
 <p><small>Memory needs update</small></p>                                                                                                                 
-<a href="https://github.com/GaelLouage/Game-DDS-trainer" target="_blank">Checkout my code</a>
+<a href="https://github.com/GaelLouage/Game-DDS-trainer" target="_blank">code</a>
 <!-- web -->
 <hr>
 <h1>Web</h1>
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
  <img src="https://github.com/GaelLouage/Blog-project-duo/blob/main/header.PNG"  width="450px" height="300px""> 
 
 </div>
-<a href="https://github.com/GaelLouage/landing-page-job" target="_blank">Checkout my code</a>
+<a href="https://github.com/GaelLouage/landing-page-job" target="_blank">code</a>
 <hr>
 <!-- clone webb -->
 <h3>Clone single page</h3>
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/GaelLouage/Clone-website/blob/main/clone%20website.png" width="450px" height="1000px"> 
 
 </div>                                                                                                                                                                                                                      
-<a href="https://github.com/GaelLouage/Clone-website" target="_blank">Checkout my code</a>
+<a href="https://github.com/GaelLouage/Clone-website" target="_blank">code</a>
 <br>
 <a href="https://gaellouage.github.io/Clone-website" target="_blank">Watch live</a>
 <hr>
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/GaelLouage/CartoonWorld/blob/main/login.PNG" width="150px" height="100px"> 
  <img src="https://github.com/GaelLouage/CartoonWorld/blob/main/register.PNG" width="150px" height="100px"> 
 </div>                                                                                                                                                                                                                      
-<a href="https://github.com/GaelLouage/CartoonWorld" target="_blank">Checkout my code</a>
+<a href="https://github.com/GaelLouage/CartoonWorld" target="_blank">code</a>
 <hr>
 <!-- landing page -->
 <h3>Landing Page</h3>
@@ -94,14 +94,14 @@ Here are some ideas to get you started:
 <img src="https://github.com/GaelLouage/landing-page-job/blob/main/mobile.PNG" width="50px" height="100px">                                                               <img src="https://github.com/GaelLouage/landing-page-job/blob/main/routing.PNG" width="150px" height="100px">                                        
                                                                                                               
 </div>
-<a href="https://github.com/GaelLouage/Blog-project-duo" target="_blank">Checkout my code</a>
+<a href="https://github.com/GaelLouage/Blog-project-duo" target="_blank">code</a>
 <hr>
 <h3>Dev finder (Git api)</h3>
 <p><strong>Tools:</strong> Angular, Typescript, CSS, HTML, api</p>
 <div style="display:flex;">
   <img src="https://github.com/GaelLouage/devFinder/blob/main/appImg.PNG" width="350px" height="200px"> 
 </div>
-<a href="https://github.com/GaelLouage/devFinder" target="_blank">Checkout my code</a>
+<a href="https://github.com/GaelLouage/devFinder" target="_blank">code</a>
 <br>
 <a href="https://gaellouage.github.io/devFinder/" target="_blank">Watch live</a>
 <hr>
@@ -111,7 +111,7 @@ Here are some ideas to get you started:
 <div style="display:flex;">
   <img src="https://github.com/GaelLouage/Country/blob/main/countryList.PNG" width="450px" height="200px"> 
 </div>
-<a href="https://github.com/GaelLouage/Country" target="_blank">Checkout my code</a>
+<a href="https://github.com/GaelLouage/Country" target="_blank">code</a>
 
 <hr>
 
@@ -121,7 +121,7 @@ Here are some ideas to get you started:
 <div style="display:flex;">
   <img src="https://github.com/GaelLouage/Advice-generator/blob/main/appImg.PNG" width="450px" height="200px"> 
 </div>
-<a href="https://github.com/GaelLouage/Advice-generator" target="_blank">Checkout my code</a>
+<a href="https://github.com/GaelLouage/Advice-generator" target="_blank">my code</a>
 <br>
 <a href="https://gaellouage.github.io/Advice-generator/" target="_blank">Watch live</a>
 <hr>
