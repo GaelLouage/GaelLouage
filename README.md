@@ -100,3 +100,13 @@ Here are some ideas to get you started:
 <a href="https://github.com/GaelLouage/Country" target="_blank">Checkout my code</a>
 
 <hr>
+
+
+<h3>Advice generator  (api)</h3>
+<p><strong>Tools:</strong> Angular, Typescript, CSS, HTML, api</p>
+<div style="display:flex;">
+  <img src="https://github.com/GaelLouage/Advice-generator/blob/main/appImg.PNG" width="450px" height="200px"> 
+</div>
+<a href="https://github.com/GaelLouage/Advice-generator" target="_blank">Checkout my code</a>
+
+<hr>
