@@ -11,4 +11,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 
 <h1>Landing Page Job</h1>
-<img src="https://github.com/GaelLouage/landing-page-job/blob/main/main.PNG"> 
+<div style="display:flex">
+  <img src="https://github.com/GaelLouage/landing-page-job/blob/main/main.PNG" width="25px" height="25px"> 
+  <img src="https://github.com/GaelLouage/landing-page-job/blob/main/filtering.PNG)"> 
+  <img src="https://github.com/GaelLouage/landing-page-job/blob/main/main.PNG"> 
+  <img src="https://github.com/GaelLouage/landing-page-job/blob/main/routing.PNG"> 
+</div>
+
