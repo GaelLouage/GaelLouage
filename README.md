@@ -9,7 +9,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about Angular, CSS, HTML, Javascript, C#
 - 📫 How to reach me: Linkedin - https://www.linkedin.com/in/ga%C3%ABl-louage-812bb0224/
 - 😄 Pronouns: He/His
-
+<hr>
+<h1>Some Front end </h1>
 <h3>Landing Page Job</h3>
 <div style="display:flex;">
   <img src="https://github.com/GaelLouage/landing-page-job/blob/main/main.PNG" width="150px" height="100px"> 
