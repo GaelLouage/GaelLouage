@@ -65,9 +65,9 @@ Here are some ideas to get you started:
 <h3>Clone single page</h3>
 <p><strong>Tools:</strong>Angular, Typescript, CSS, HTML</p>
 <div style="display:flex;">
- <img src="https://github.com/GaelLouage/Clone-website/blob/main/mobile.png"  width="50px" height="100px"> 
+ <img src="https://github.com/GaelLouage/Clone-website/blob/main/mobile.png"  width="50px" height="9000px"> 
  <img src="https://github.com/GaelLouage/Clone-website/blob/main/modal.png"  width="450px" height="100px"> 
-  <img src="https://github.com/GaelLouage/Clone-website/blob/main/clone%20website.png" width="450px" height="100px"> 
+  <img src="https://github.com/GaelLouage/Clone-website/blob/main/clone%20website.png" width="450px" height="900px"> 
 
 </div>                                                                                                                                                                                                                      
 <a href="https://github.com/GaelLouage/Clone-website" target="_blank">Checkout my code</a>
