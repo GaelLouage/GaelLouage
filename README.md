@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ga%C3%ABl-louage-812bb0224" target="_blank">Linkedin</a>
 - 😄 Pronouns: He/His
 <hr>
-
+<h1>Front end exercises</h1>
 <h3>Landing Page</h3>
 <p><strong>Tools:</strong> Angular, Typescript, CSS, HTML</p>
 <div style="display:flex;">
