@@ -59,7 +59,18 @@ Here are some ideas to get you started:
 </div>
 <a href="https://github.com/GaelLouage/landing-page-job" target="_blank">Checkout my code</a>
 <hr>
-
+<!-- web -->
+<h3>CartoonWorld</h3>
+<p><strong>Tools:</strong>ASP.NET CORE, CRUD, Entity Framework, CSS, HTML</p>
+<div style="display:flex;">
+ <img src="https://github.com/GaelLouage/CartoonWorld/blob/main/board.PNG"  width="150px" height="100px"> 
+ <img src="https://github.com/GaelLouage/CartoonWorld/blob/main/detail.PNG"  width="150px" height="100px"> 
+  <img src="https://github.com/GaelLouage/CartoonWorld/blob/main/login.PNG" width="150px" height="100px"> 
+                                                                                                                <img src="https://github.com/GaelLouage/CartoonWorld"  width="450px" height="300px""> 
+</div>                                                                                                                                                                                                                      
+<a href="https://github.com/GaelLouage/CartoonWorld" target="_blank">Checkout my code</a>
+<hr>
+<!-- landing page -->
 <h3>Landing Page</h3>
 <p><strong>Tools:</strong> Angular, Typescript, CSS, HTML</p>
 <div style="display:flex;">
