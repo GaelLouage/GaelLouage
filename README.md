@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h3>DDS trainer</h3>
 <p><strong>Tools:</strong>c#, WPF</p>
 <div style="display:flex;">
- <img src="https://github.com/GaelLouage/Game-DDS-trainer/blob/main/Ddstrainer.PNG"  width="450px" height="300px""> 
+ <img src="https://github.com/GaelLouage/Game-DDS-trainer/blob/main/Ddstrainer.PNG"  width="350px" height="300px""> 
 </div>
 <small>Memory needs update</small>                                                                                                                 
 <a href="https://github.com/GaelLouage/Game-DDS-trainer" target="_blank">Checkout my code</a>
