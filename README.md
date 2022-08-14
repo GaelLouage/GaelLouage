@@ -89,7 +89,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/GaelLouage/devFinder/blob/main/appImg.PNG" width="350px" height="200px"> 
 </div>
 <a href="https://github.com/GaelLouage/devFinder" target="_blank">Checkout my code</a>
-
+<br>
+<a href="https://gaellouage.github.io/devFinder/" target="_blank">Watch live</a>
 <hr>
 
 <h3>Country  (api)</h3>
@@ -98,8 +99,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/GaelLouage/Country/blob/main/countryList.PNG" width="450px" height="200px"> 
 </div>
 <a href="https://github.com/GaelLouage/Country" target="_blank">Checkout my code</a>
-<br>
-<a href="hhttps://gaellouage.github.io/devFinder/" target="_blank">Watch live</a>
+
 <hr>
 
 
