@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 <p><small>Memory needs update</small></p>                                                                                                                 
 <a href="https://github.com/GaelLouage/Game-DDS-trainer" target="_blank">Checkout my code</a>
 <!-- web -->
+<hr>
 <h1>Web</h1>
 <h3>Blog Project duo</h3>
 <p><strong>Tools:</strong> Angular, Typescript, CSS, HTML</p>
@@ -59,7 +60,7 @@ Here are some ideas to get you started:
 </div>
 <a href="https://github.com/GaelLouage/landing-page-job" target="_blank">Checkout my code</a>
 <hr>
-<!-- web -->
+<!-- cworld -->
 <h3>CartoonWorld</h3>
 <p><strong>Tools:</strong>ASP.NET CORE, CRUD, Entity Framework, CSS, HTML</p>
 <div style="display:flex;">
