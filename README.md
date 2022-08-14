@@ -66,7 +66,7 @@ Here are some ideas to get you started:
  <img src="https://github.com/GaelLouage/CartoonWorld/blob/main/board.PNG"  width="150px" height="100px"> 
  <img src="https://github.com/GaelLouage/CartoonWorld/blob/main/detail.PNG"  width="150px" height="100px"> 
   <img src="https://github.com/GaelLouage/CartoonWorld/blob/main/login.PNG" width="150px" height="100px"> 
-                                                                                                                <img src="https://github.com/GaelLouage/CartoonWorld"  width="450px" height="300px""> 
+                                                                                                                <img src="https://github.com/GaelLouage/CartoonWorld/blob/main/register.PNG" > 
 </div>                                                                                                                                                                                                                      
 <a href="https://github.com/GaelLouage/CartoonWorld" target="_blank">Checkout my code</a>
 <hr>
