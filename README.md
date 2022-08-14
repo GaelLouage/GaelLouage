@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Angular, CSS, HTML, Javascript, C#
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ga%C3%ABl-louage-812bb0224" target="_blank">Linkedin</a>
 - 😄 Pronouns: He/His
--  <a href="https://gitlab.com/LouageGael" target="_blank">Linkedin</a>
+-  <a href="https://gitlab.com/LouageGael" target="_blank">Gitlab</a>
  <hr>
 <!-- c# -->
 <h1>C# Winforms WPF</h1>
