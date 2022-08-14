@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/GaelLouage/Movie-db/blob/main/selected.PNG"  width="200px" height="100px""> 
  <img src="https://github.com/GaelLouage/Movie-db/blob/main/admin%20menu.PNG"  width="300px" height="150px""> 
 </div>
-<p><small>Download youtube videos in mp4 or mp3 format</small></p>                                                                                                                 
+<p><small>movie db</small></p>                                                                                                                 
 <a href="https://github.com/GaelLouage/Movie-db" target="_blank">code</a>
 <hr>
 <!--vdab -->
