@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 
 <h1>Landing Page Job</h1>
 <div style="display:flex;">
-  <img src="https://github.com/GaelLouage/landing-page-job/blob/main/main.PNG" > 
-  <img src="https://github.com/GaelLouage/landing-page-job/blob/main/filtering.PNG" >  
-  <img src="https://github.com/GaelLouage/landing-page-job/blob/main/main.PNG" > 
-  <img src="https://github.com/GaelLouage/landing-page-job/blob/main/routing.PNG" > 
+  <img src="https://github.com/GaelLouage/landing-page-job/blob/main/main.PNG" width="150px" height="100px"> 
+  <img src="https://github.com/GaelLouage/landing-page-job/blob/main/filtering.PNG"width="150px" height="100px"> 
+  <img src="https://github.com/GaelLouage/landing-page-job/blob/main/main.PNG" width="150px" height="100px"> 
+  <img src="https://github.com/GaelLouage/landing-page-job/blob/main/routing.PNG" width="150px" height="100px"> 
 </div>
 
