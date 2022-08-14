@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 </div>                                                                                                                                                                                                                      
 <a href="https://github.com/GaelLouage/Clone-website" target="_blank">Checkout my code</a>
 <br>
-<a href="https://gaellouage.github.io/Clone-website/clone/" target="_blank">Watch live</a>
+<a href="https://gaellouage.github.io/Clone-website" target="_blank">Watch live</a>
 <hr>
 <!-- cworld -->
 <h3>CartoonWorld</h3>
