@@ -23,6 +23,16 @@ Here are some ideas to get you started:
 <p><small>Download youtube videos in mp4 or mp3 format</small></p>                                                                                                                 
 <a href="https://github.com/GaelLouage/Movie-db" target="_blank">Checkout my code</a>
 <hr>
+<!--vdab -->
+<h3>Movie Db</h3>
+<p><strong>Tools:</strong>c#, WPF, CRUD, Entity Framework</p>
+<div style="display:flex;">
+ <img src="https://github.com/GaelLouage/VDAB-tool-selenium/blob/main/app.PNG"  width="50px" height="100px""> 
+</div>
+<!--youtube dl -->
+<p><small>Download youtube videos in mp4 or mp3 format</small></p>                                                                                                                 
+<a href="https://github.com/GaelLouage/VDAB-tool-selenium" target="_blank">Checkout my code</a>
+<hr>
 <h3>Youtube downloader</h3>
 <p><strong>Tools:</strong>c#, WPF</p>
 <div style="display:flex;">
