@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 <h3>Blog Project duo</h3>
 <p><strong>Tools:</strong> Angular, Typescript, CSS, HTML</p>
 <div style="display:flex;">
-
-    <img src="https://github.com/GaelLouage/Blog-project-duo/blob/main/header.PNG"  width="450px" height="200px"> 
+ <img src="https://github.com/GaelLouage/Blog-project-duo/blob/main/header.PNG" width="150px" height="100px"> 
 
 </div>
 <a href="https://github.com/GaelLouage/landing-page-job" target="_blank">Checkout my code</a>
