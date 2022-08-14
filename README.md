@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning MEAN stack
 - 🤔 I’m looking for help with Mongoose 
 - 💬 Ask me about Angular, CSS, HTML, Javascript, C#
-- 📫 How to reach me: Linkedin - https://www.linkedin.com/in/ga%C3%ABl-louage-812bb0224/
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/ga%C3%ABl-louage-812bb0224/>Linkedin</a>
 - 😄 Pronouns: He/His
 <hr>
 
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
   <img src="https://github.com/GaelLouage/landing-page-job/blob/main/main.PNG" width="150px" height="100px"> 
   <img src="https://github.com/GaelLouage/landing-page-job/blob/main/routing.PNG" width="150px" height="100px"> 
 </div>
-
+<a href="https://github.com/GaelLouage/landing-page-job" target="_blank">Checkout my code</a>
