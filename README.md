@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div style="display:flex;">
  <img src="https://github.com/GaelLouage/Movie-db/blob/main/login.PNG"  width="150px" height="50px""> 
   <img src="https://github.com/GaelLouage/Movie-db/blob/main/mainimg.PNG"  width="100px" height="200px""> 
-  <img src="https://github.com/GaelLouage/Movie-db/blob/main/selected.PNG"  width="250px" height="150px""> 
+  <img src="https://github.com/GaelLouage/Movie-db/blob/main/selected.PNG"  width="300px" height="150px""> 
  <img src="https://github.com/GaelLouage/Movie-db/blob/main/admin%20menu.PNG"  width="300px" height="150px""> 
 </div>
 <p><small>Download youtube videos in mp4 or mp3 format</small></p>                                                                                                                 
