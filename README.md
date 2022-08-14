@@ -108,5 +108,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/GaelLouage/Advice-generator/blob/main/appImg.PNG" width="450px" height="200px"> 
 </div>
 <a href="https://github.com/GaelLouage/Advice-generator" target="_blank">Checkout my code</a>
+<br>
 <a href="https://gaellouage.github.io/Advice-generator/" target="_blank">Watch live</a>
 <hr>
