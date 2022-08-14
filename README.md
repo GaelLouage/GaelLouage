@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/GaelLouage/devFinder" target="_blank">Checkout my code</a>
 
 <hr>
-/*counry*/
-<h3>Country  (Git api)</h3>
+
+<h3>Country  (api)</h3>
 <p><strong>Tools:</strong> Angular, Typescript, CSS, HTML, api</p>
 <div style="display:flex;">
   <img src="https://github.com/GaelLouage/Country/blob/main/countryList.PNG" width="450px" height="200px"> 
