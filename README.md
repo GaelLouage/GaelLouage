@@ -10,7 +10,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ga%C3%ABl-louage-812bb0224" target="_blank">Linkedin</a>
 - 😄 Pronouns: He/His
 <hr>
-<h1>Front end</h1>
+<!-- c# -->
+<h1>C# Winforms WPF</h1>
+<h3>DDS trainer</h3>
+<p><strong>Tools:</strong>c#, WPF</p>
+<div style="display:flex;">
+ <img src="https://github.com/GaelLouage/Game-DDS-trainer/blob/main/Ddstrainer.PNG"  width="450px" height="300px""> 
+</div>
+<small>Memory needs update</small>                                                                                                                 
+<a href="https://github.com/GaelLouage/Game-DDS-trainer" target="_blank">Checkout my code</a>
+<!-- web -->
+<h1>Front end Web</h1>
 <h3>Blog Project duo</h3>
 <p><strong>Tools:</strong> Angular, Typescript, CSS, HTML</p>
 <div style="display:flex;">
