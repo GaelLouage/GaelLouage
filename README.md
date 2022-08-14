@@ -12,6 +12,15 @@ Here are some ideas to get you started:
 <hr>
 <!-- c# -->
 <h1>C# Winforms WPF</h1>
+<h3>Youtube downloader</h3>
+<p><strong>Tools:</strong>c#, WPF</p>
+<div style="display:flex;">
+ <img src="https://github.com/GaelLouage/Youtube-mp4-mp3/blob/main/appImage.PNG"  width="200px" height="100px""> 
+</div>
+<p><small>Download youtube videos in mp4 or mp3 format</small></p>                                                                                                                 
+<a href="https://github.com/GaelLouage/Youtube-mp4-mp3" target="_blank">Checkout my code</a>
+<hr>
+<!--dds-->
 <h3>DDS trainer</h3>
 <p><strong>Tools:</strong>c#, WPF</p>
 <div style="display:flex;">
