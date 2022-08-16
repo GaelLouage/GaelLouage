@@ -85,6 +85,16 @@ Here are some ideas to get you started:
 </div>                                                                                                                                                                                                                      
 <a href="https://github.com/GaelLouage/CartoonWorld" target="_blank">code</a>
 <hr>
+<!-- card user -->
+<h3>Card form</h3>
+<p><strong>Tools:</strong> Angular, Typescript, CSS, HTML</p>
+<div style="display:flex;">
+ <img src="https://github.com/GaelLouage/card/blob/main/desktio-form.PNG"  width="150px" height="100px"> 
+ <img src="https://github.com/GaelLouage/card/blob/main/mobile-form.PNG"  width="50px" height="100px"> 
+  <img src="https://github.com/GaelLouage/card/blob/main/success.PNG"  width="50px" height="100px"> 
+</div>
+<a href="https://github.com/GaelLouage/card" target="_blank">code</a>
+<hr>
 <!-- landing page -->
 <h3>Landing Page</h3>
 <p><strong>Tools:</strong> Angular, Typescript, CSS, HTML</p>
