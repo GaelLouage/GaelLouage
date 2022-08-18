@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <hr>
 <!--dds-->
 <h3>DDS trainer</h3>
-<p><strong>Tools:</strong>c#, WPF</p>
+<p><strong>Tools:</strong>c#, Winforms</p>
 <div style="display:flex;">
  <img src="https://github.com/GaelLouage/Game-DDS-trainer/blob/main/Ddstrainer.PNG"  width="450px" height="250px""> 
 </div>
