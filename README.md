@@ -11,6 +11,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 -  <a href="https://gitlab.com/LouageGael" target="_blank">Gitlab</a>
  <hr>
+ <!-- api -->
+<h1>C# .Net API</h1>
+<h3>Youtube video Downloader MP3, MP4 format</h3>
+<p><strong>Tools:</strong>c#, ASP.NET Core</p>
+<div style="display:flex;">
+ <img src="https://github.com/GaelLouage/Youtube-Downloader-API/blob/main/Youtube.png"  width="200px" height="400px""> 
+</div>
+<p><small>Youtube API</small></p>                                                                                                                 
+<a href="https://github.com/GaelLouage/Youtube-Downloader-API" target="_blank">code</a>
+<hr>
 <!-- c# -->
 <h1>C# Winforms WPF</h1>
 <h3>Movie Db</h3>
