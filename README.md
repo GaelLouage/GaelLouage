@@ -60,6 +60,14 @@ Here are some ideas to get you started:
 </div>
 <p><small>Memory needs update</small></p>                                                                                                                 
 <a href="https://github.com/GaelLouage/Game-DDS-trainer" target="_blank">code</a>
+<!--password generator-->
+<h3>Password Generator</h3>
+<p><strong>Tools:</strong>c#, WPF</p>
+<div style="display:flex;">
+ <img src="https://github.com/GaelLouage/password-generator/blob/main/passwordGenImg.PNG"  width="450px" height="250px""> 
+</div>
+<p><small>Memory needs update</small></p>                                                                                                                 
+<a href="https://github.com/GaelLouage/password-generator" target="_blank">code</a>
 <!-- web -->
 <hr>
 <h1>Web</h1>
