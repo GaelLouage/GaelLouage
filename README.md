@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 <h3>Password Generator</h3>
 <p><strong>Tools:</strong>c#, WPF</p>
 <div style="display:flex;">
- <img src="https://github.com/GaelLouage/password-generator/blob/main/passwordGenImg.PNG"  width="450px" height="650px""> 
+ <img src="https://github.com/GaelLouage/password-generator/blob/main/passwordGenImg.PNG"  width="350px" height="650px""> 
 </div>                                                                                                      
 <a href="https://github.com/GaelLouage/password-generator" target="_blank">code</a>
 <!-- web -->
