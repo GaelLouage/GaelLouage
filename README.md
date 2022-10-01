@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/GaelLouage/Youtube-Downloader-API" target="_blank">code</a>
 <hr>
 <!-- c# -->
-<h1>C# Winforms WPF</h1>
+<h1>C#, WPF</h1>
 <h3>Movie Db</h3>
 <p><strong>Tools:</strong>c#, WPF, CRUD, Entity Framework</p>
 <div style="display:flex;">
@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/GaelLouage/Movie-db" target="_blank">code</a>
 <hr>
 <!-- c# tip  calculator-->
-<h1>C#, Winforms WPF</h1>
+<h1>C#, WPF</h1>
 <h3>Tip calculator</h3>
-<p><strong>Tools:</strong>c#, WPF, CRUD, Entity Framework</p>
+<p><strong>Tools:</strong>c#, WPF</p>
 <div style="display:flex;">
  <img src="https://github.com/GaelLouage/tip-calculator/blob/main/tipCalculator.PNG"  width="800px" height="450px""> 
 </div>   
