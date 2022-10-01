@@ -41,8 +41,7 @@ Here are some ideas to get you started:
 <div style="display:flex;">
  <img src="https://github.com/GaelLouage/tip-calculator/blob/main/tipCalculator.PNG"  width="800px" height="450px""> 
 </div>   
-<a href="https://github.com/GaelLouage/tip-calculator">code</a>                                                                                                             
-<a href="" target="_blank">code</a>
+<a href="https://github.com/GaelLouage/tip-calculator">code</a>                                                                           
 <hr>
 <!--vdab -->
 <h3>VDAB tool</h3>
