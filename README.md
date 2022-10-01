@@ -34,6 +34,16 @@ Here are some ideas to get you started:
 <p><small>movie db</small></p>                                                                                                                 
 <a href="https://github.com/GaelLouage/Movie-db" target="_blank">code</a>
 <hr>
+<!-- c# tip  calculator-->
+<h1>C#, Winforms WPF</h1>
+<h3>Tip calculator</h3>
+<p><strong>Tools:</strong>c#, WPF, CRUD, Entity Framework</p>
+<div style="display:flex;">
+ <img src="https://github.com/GaelLouage/tip-calculator/blob/main/tipCalculator.PNG"  width="800px" height="450px""> 
+</div>   
+<a href="https://github.com/GaelLouage/tip-calculator">code</a>                                                                                                             
+<a href="" target="_blank">code</a>
+<hr>
 <!--vdab -->
 <h3>VDAB tool</h3>
 <p><strong>Tools:</strong>c#, WPF, Selenium</p>
