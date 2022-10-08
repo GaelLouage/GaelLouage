@@ -10,6 +10,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ga%C3%ABl-louage-812bb0224" target="_blank">Linkedin</a>
 - 😄 Pronouns: He/His
 -  <a href="https://gitlab.com/LouageGael" target="_blank">Gitlab</a>
+<!-- api -->
+<h1>C# .Net API, MONGOD</h1>
+<h3>Simple CRUD with mongodb and api</h3>
+<p><strong>Tools:</strong>c#, ASP.NET Core, mongodb</p>
+<div style="display:flex;">
+ <img src="https://github.com/GaelLouage/employee-db/blob/main/apiImg.PNG"  width="800px" height="1000px""> 
+</div>
+<p><small>employee API</small></p>                                                                                                                 
+<a href="https://github.com/GaelLouage/employee-db" target="_blank">code</a>
  <hr>
  <!-- api -->
 <h1>C# .Net API</h1>
