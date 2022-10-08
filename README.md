@@ -11,11 +11,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 -  <a href="https://gitlab.com/LouageGael" target="_blank">Gitlab</a>
 <!-- api -->
-<h1>C# .Net API, MONGOD</h1>
+<h1>C# .Net API, MONGODB</h1>
 <h3>Simple CRUD with mongodb and api</h3>
 <p><strong>Tools:</strong>c#, ASP.NET Core, mongodb</p>
 <div style="display:flex;">
- <img src="https://github.com/GaelLouage/employee-db/blob/main/apiImg.PNG"  width="800px" height="1000px""> 
+ <img src="https://github.com/GaelLouage/employee-db/blob/main/apiImg.PNG"  width="800px" height="900px"> 
 </div>
 <p><small>employee API</small></p>                                                                                                                 
 <a href="https://github.com/GaelLouage/employee-db" target="_blank">code</a>
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h3>Youtube video Downloader MP3, MP4 format</h3>
 <p><strong>Tools:</strong>c#, ASP.NET Core</p>
 <div style="display:flex;">
- <img src="https://github.com/GaelLouage/Youtube-Downloader-API/blob/main/Youtube.png"  width="600px" height="800px""> 
+ <img src="https://github.com/GaelLouage/Youtube-Downloader-API/blob/main/Youtube.png"  width="800px" height="900px"> 
 </div>
 <p><small>Youtube API</small></p>                                                                                                                 
 <a href="https://github.com/GaelLouage/Youtube-Downloader-API" target="_blank">code</a>
