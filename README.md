@@ -50,7 +50,15 @@ Here are some ideas to get you started:
 <div style="display:flex;">
  <img src="https://github.com/GaelLouage/tip-calculator/blob/main/tipCalculator.PNG"  width="800px" height="450px""> 
 </div>   
-<a href="https://github.com/GaelLouage/tip-calculator">code</a>                                                                           
+<a href="https://github.com/GaelLouage/tip-calculator">code</a>                                                                      <hr>
+<!-- c# BMI  calculator-->
+<h1>C#, WPF</h1>
+<h3>bmi calculator</h3>
+<p><strong>Tools:</strong>c#, WPF</p>
+<div style="display:flex;">
+ <img src="https://github.com/GaelLouage/Bmi-Calculator/blob/main/BMI%20Calculator/bmiApp.PNG"  width="400px" height="750px""> 
+</div>   
+<a href="https://github.com/GaelLouage/Bmi-Calculator/tree/main/BMI%20Calculator">code</a>                
 <hr>
 <!--vdab -->
 <h3>VDAB tool</h3>
