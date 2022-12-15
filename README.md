@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/GaelLouage/NLFTeamsApi" target="_blank">code</a>
  <hr>
  <!-- api -->
-<h1>C# .Net API</h1>
 <h3>Youtube video Downloader MP3, MP4 format</h3>
 <p><strong>Tools:</strong>c#, ASP.NET Core</p>
 <div style="display:flex;">
@@ -44,7 +43,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/GaelLouage/Movie-db" target="_blank">code</a>
 <hr>
 <!-- c# tip  calculator-->
-<h1>C#, WPF</h1>
 <h3>Tip calculator</h3>
 <p><strong>Tools:</strong>c#, WPF</p>
 <div style="display:flex;">
@@ -52,7 +50,6 @@ Here are some ideas to get you started:
 </div>   
 <a href="https://github.com/GaelLouage/tip-calculator">code</a>                                                                      <hr>
 <!-- c# BMI  calculator-->
-<h1>C#, WPF</h1>
 <h3>bmi calculator</h3>
 <p><strong>Tools:</strong>c#, WPF</p>
 <div style="display:flex;">
@@ -60,7 +57,7 @@ Here are some ideas to get you started:
 </div>   
 <a href="https://github.com/GaelLouage/Bmi-Calculator/tree/main/BMI%20Calculator">code</a>                
 <hr>
-<!--vdab -->
+<h1>C#, Winforms</h1>
 <h3>VDAB tool</h3>
 <p><strong>Tools:</strong>c#, WPF, Selenium</p>
 <div style="display:flex;">
