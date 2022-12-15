@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Frontend Pages
-- 🌱 I’m currently learning MEAN stack
+- 🔭 I’m currently working on Backend
+- 🌱 
 - 🤔 ...
 - 💬 Ask me about Angular, C#
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ga%C3%ABl-louage-812bb0224" target="_blank">Linkedin</a>
