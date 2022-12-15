@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h3>Youtube video Downloader MP3, MP4 format</h3>
 <p><strong>Tools:</strong>c#, ASP.NET Core</p>
 <div style="display:flex;">
- <img src="https://github.com/GaelLouage/Youtube-Downloader-API/blob/main/Youtube.png"  width="800px" height="900px"> 
+ <img src="https://github.com/GaelLouage/Youtube-Downloader-API/blob/main/Youtube.png"  width="1200px" height="900px"> 
 </div>
 <p><small>Youtube API</small></p>                                                                                                                 
 <a href="https://github.com/GaelLouage/Youtube-Downloader-API" target="_blank">code</a>
