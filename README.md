@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h3>Simple CRUD with mongodb and api</h3>
 <p><strong>Tools:</strong>c#, ASP.NET Core, mongodb</p>
 <div style="display:flex;">
- <img src="https://github.com/GaelLouage/employee-db/blob/main/apiImg.PNG"  width="800px" height="900px"> 
+ <img src="https://github.com/GaelLouage/employee-db/blob/main/apiImg.PNG"  width="1200px" height="900px"> 
 </div>
 <p><small>employee API</small></p>                                                                                                                 
 <a href="https://github.com/GaelLouage/employee-db" target="_blank">code</a>
