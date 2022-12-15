@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 -  <a href="https://gitlab.com/LouageGael" target="_blank">Gitlab</a>
 <!-- api -->
 <h1>C# .Net API</h1>
-<h3>Microsoft Word api</h3>
+<h3>Word api</h3>
 <p><strong>Tools:</strong>CRUD, aps.NET api, sql, Entity Framework, Syncfusion</p>
 <div style="display:flex;">
  <img src="https://github.com/GaelLouage/WordGenerator/blob/G1/swaggie.PNG"  width="400px" height="300px"> 
 </div>
-<p><small>NFL-Teams API</small></p>                                                                                                                 
+<p><small>Word api</small></p>                                                                                                                 
 <a href="https://github.com/GaelLouage/WordGenerator/tree/G1" target="_blank">code</a>
  <hr>
 <h3>NFL-Teams</h3>
