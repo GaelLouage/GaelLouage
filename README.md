@@ -11,14 +11,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 -  <a href="https://gitlab.com/LouageGael" target="_blank">Gitlab</a>
 <!-- api -->
-<h1>C# .Net API, MONGODB</h1>
-<h3>Simple CRUD with mongodb and api</h3>
-<p><strong>Tools:</strong>c#, ASP.NET Core, mongodb</p>
+<h1>C# .Net API</h1>
+<h3>NFL-Teams</h3>
+<p><strong>Tools:</strong>CRUD, aps.NET api, MongoDB, Generics</p>
 <div style="display:flex;">
- <img src="https://github.com/GaelLouage/employee-db/blob/main/apiImg.PNG"  width="1200px" height="900px"> 
+ <img src="https://github.com/GaelLouage/NLFTeamsApi/blob/main/swaggie.PNG"  width="400px" height="300px"> 
 </div>
-<p><small>employee API</small></p>                                                                                                                 
-<a href="https://github.com/GaelLouage/employee-db" target="_blank">code</a>
+<p><small>NFL-Teams API</small></p>                                                                                                                 
+<a href="https://github.com/GaelLouage/NLFTeamsApi" target="_blank">code</a>
  <hr>
  <!-- api -->
 <h1>C# .Net API</h1>
