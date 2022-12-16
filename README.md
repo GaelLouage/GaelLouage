@@ -122,6 +122,14 @@ Here are some ideas to get you started:
 <br>
 <a href="https://gaellouage.github.io/Clone-website" target="_blank">Watch live</a>
 <hr>
+   <!-- cv -->
+<h3>CV</h3>
+<p><strong>Tools:</strong>HTML,CSS,Bootstrap</p>
+<div style="display:flex;">
+</div>        
+  <img src="![gaelcvwebsiteimage](https://user-images.githubusercontent.com/111178282/208104714-305b1e74-971b-4ee5-aa3f-c9d146f58760.PNG)
+" width="400" height="300px">                          
+<a href="https://www.louagegael.netlify.app"  width="400px" height="300px">Live</a>                                        
 <!-- cworld -->
 <h3>Weed shop</h3>
 <p><strong>Tools:</strong>ASP.NET CORE, CRUD, Entity Framework, CSS, HTML, Javascript, SQL, Authorization,Authentication</p>
