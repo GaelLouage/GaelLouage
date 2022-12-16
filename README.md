@@ -129,7 +129,7 @@ Here are some ideas to get you started:
 https://github.com/GaelLouage/GaelLouage/issues/1#issue-1500151755
 </div>        
 <img src="https://github.com/GaelLouage/weedshop/blob/main/header.PNG"  width="400px" height="300px">  
-[<video href="https://github.com/GaelLouage/weedshop" target="_blank">code</a>](https://github.com/GaelLouage/GaelLouage/issues/2#issue-1500165601)
+<a href="https://user-images.githubusercontent.com/111178282/208104108-6430ebce-854b-4199-af20-d239597a0880.mp4">Video</a>
 <a href="https://github.com/GaelLouage/weedshop" target="_blank">code</a>
 <hr>
 <!-- card user -->
