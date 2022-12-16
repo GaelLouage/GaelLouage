@@ -127,7 +127,9 @@ Here are some ideas to get you started:
 <p><strong>Tools:</strong>ASP.NET CORE, CRUD, Entity Framework, CSS, HTML, Javascript, SQL, Authorization,Authentication</p>
 <div style="display:flex;">
 https://github.com/GaelLouage/GaelLouage/issues/1#issue-1500151755
-</div>                                                                             
+</div>        
+<img src="https://github.com/GaelLouage/weedshop/blob/main/header.PNG"  width="400px" height="300px">  
+[<video href="https://github.com/GaelLouage/weedshop" target="_blank">code</a>](https://github.com/GaelLouage/GaelLouage/issues/2#issue-1500165601)
 <a href="https://github.com/GaelLouage/weedshop" target="_blank">code</a>
 <hr>
 <!-- card user -->
