@@ -122,17 +122,10 @@ Here are some ideas to get you started:
 <br>
 <a href="https://gaellouage.github.io/Clone-website" target="_blank">Watch live</a>
 <hr>
-   <!-- cv -->
-<h3>CV</h3>
-<p><strong>Tools:</strong>HTML,CSS,Bootstrap</p>
-<div style="display:flex;">
-</div>        
-  <img src="https://github.com/GaelLouage/cv/blob/main/gaelcvwebsiteimage.PNG" width="400" height="300px">                          
-<a href="https://louagegael.netlify.app">Live</a>   
-                                        
+
    <!-- storyzon -->
 <h3>StoryZon</h3>
-<p><strong>Tools:</strong>ASP.NET CORE, CRUD, Entity Framework, CSS, HTML, Javascript, SQL, Authorization,Authentication</p>
+<p><strong>Tools:</strong>HTML,CSS,Bootstrap, MongoDb, Asp.net Core MVC. Pdf, Speech, CRUD, Authentication, Authorization, Javascript</p>
 <div style="display:flex;">
 <img src="https://github.com/GaelLouage/storyNew/blob/main/StoryzonMain.PNG"  width="400px" height="300px">  
 </div>        
