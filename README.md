@@ -128,7 +128,27 @@ Here are some ideas to get you started:
 <div style="display:flex;">
 </div>        
   <img src="https://github.com/GaelLouage/cv/blob/main/gaelcvwebsiteimage.PNG" width="400" height="300px">                          
-<a href="https://louagegael.netlify.app">Live</a>                                        
+<a href="https://louagegael.netlify.app">Live</a>   
+                                        
+   <!-- storyzon -->
+<h3>StoryZon</h3>
+<p><strong>Tools:</strong>ASP.NET CORE, CRUD, Entity Framework, CSS, HTML, Javascript, SQL, Authorization,Authentication</p>
+<div style="display:flex;">
+<img src="https://github.com/GaelLouage/storyNew/blob/main/StoryzonMain.PNG"  width="400px" height="300px">  
+</div>        
+<a href="https://github.com/GaelLouage/storyNew" target="_blank">code</a>
+<hr>
+<!-- card user -->
+<h3>Card form</h3>
+<p><strong>Tools:</strong> Angular, Typescript, CSS, HTML</p>
+<div style="display:flex;">
+ <img src="https://github.com/GaelLouage/card/blob/main/desktio-form.PNG"  width="150px" height="100px"> 
+ <img src="https://github.com/GaelLouage/card/blob/main/mobile-form.PNG"  width="50px" height="100px"> 
+  <img src="https://github.com/GaelLouage/card/blob/main/success.PNG"  width="50px" height="100px"> 
+</div>
+<a href="https://github.com/GaelLouage/card" target="_blank">code</a>
+<hr>                                     
+                                        
 <!-- cworld -->
 <h3>Weed shop</h3>
 <p><strong>Tools:</strong>ASP.NET CORE, CRUD, Entity Framework, CSS, HTML, Javascript, SQL, Authorization,Authentication</p>
